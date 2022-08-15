@@ -1,0 +1,93 @@
+c:\users\mason_000\documents\visual studio 2012\Projects\Dodz\Dodz\bin\Debug\Dodz.exe.config
+c:\users\mason_000\documents\visual studio 2012\Projects\Dodz\Dodz\bin\Debug\Dodz.exe
+c:\users\mason_000\documents\visual studio 2012\Projects\Dodz\Dodz\bin\Debug\Dodz.pdb
+c:\users\mason_000\documents\visual studio 2012\Projects\Dodz\Dodz\obj\Debug\Dodz.csprojResolveAssemblyReference.cache
+c:\users\mason_000\documents\visual studio 2012\Projects\Dodz\Dodz\obj\Debug\Dodz.Login.resources
+c:\users\mason_000\documents\visual studio 2012\Projects\Dodz\Dodz\obj\Debug\Dodz.Properties.Resources.resources
+c:\users\mason_000\documents\visual studio 2012\Projects\Dodz\Dodz\obj\Debug\Dodz.csproj.GenerateResource.Cache
+c:\users\mason_000\documents\visual studio 2012\Projects\Dodz\Dodz\obj\Debug\Dodz.exe
+c:\users\mason_000\documents\visual studio 2012\Projects\Dodz\Dodz\obj\Debug\Dodz.pdb
+c:\users\mason_000\documents\visual studio 2012\Projects\Dodz\Dodz\obj\Debug\Dodz.Home.resources
+C:\Users\mason_000\documents\visual studio 2012\Projects\Dodz\Dodz\obj\Debug\Dodz.UCHome.resources
+C:\Users\mason_000\documents\visual studio 2012\Projects\Dodz\Dodz\obj\Debug\Dodz.UCAccounts.resources
+C:\Users\mason_000\documents\visual studio 2012\Projects\Dodz\Dodz\obj\Debug\Dodz.UCSales.resources
+C:\Users\mason_000\documents\visual studio 2012\Projects\Dodz\Dodz\obj\Debug\Dodz.UCProducts.resources
+C:\Users\mason_000\documents\visual studio 2012\Projects\Dodz\Dodz\obj\Debug\Dodz.POS.resources
+C:\Users\PcDoctoR\Desktop\Others\Dodz\Dodz\bin\Debug\Dodz.exe.config
+C:\Users\PcDoctoR\Desktop\Others\Dodz\Dodz\obj\Debug\Dodz.exe
+C:\Users\PcDoctoR\Desktop\Others\Dodz\Dodz\obj\Debug\Dodz.pdb
+C:\Users\PcDoctoR\Desktop\Others\Dodz\Dodz\bin\Debug\Dodz.exe
+C:\Users\PcDoctoR\Desktop\Others\Dodz\Dodz\bin\Debug\Dodz.pdb
+C:\Users\PcDoctoR\Desktop\Others\Dodz\Dodz\bin\Debug\MySql.Data.dll
+C:\Users\PcDoctoR\Desktop\Others\Dodz\Dodz\obj\Debug\Dodz.csprojResolveAssemblyReference.cache
+C:\Users\PcDoctoR\Desktop\Others\Dodz\Dodz\obj\Debug\Dodz.Home.resources
+C:\Users\PcDoctoR\Desktop\Others\Dodz\Dodz\obj\Debug\Dodz.Login.resources
+C:\Users\PcDoctoR\Desktop\Others\Dodz\Dodz\obj\Debug\Dodz.POS.resources
+C:\Users\PcDoctoR\Desktop\Others\Dodz\Dodz\obj\Debug\Dodz.Properties.Resources.resources
+C:\Users\PcDoctoR\Desktop\Others\Dodz\Dodz\obj\Debug\Dodz.UCAccounts.resources
+C:\Users\PcDoctoR\Desktop\Others\Dodz\Dodz\obj\Debug\Dodz.UCHome.resources
+C:\Users\PcDoctoR\Desktop\Others\Dodz\Dodz\obj\Debug\Dodz.UCProducts.resources
+C:\Users\PcDoctoR\Desktop\Others\Dodz\Dodz\obj\Debug\Dodz.UCSales.resources
+C:\Users\PcDoctoR\Desktop\Others\Dodz\Dodz\obj\Debug\Dodz.csproj.GenerateResource.Cache
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz\Dodz\bin\Debug\Dodz.exe.config
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz\Dodz\obj\Debug\Dodz.exe
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz\Dodz\obj\Debug\Dodz.pdb
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz\Dodz\bin\Debug\Dodz.exe
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz\Dodz\bin\Debug\Dodz.pdb
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz\Dodz\bin\Debug\MySql.Data.dll
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz\Dodz\obj\Debug\Dodz.csprojResolveAssemblyReference.cache
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz\Dodz\obj\Debug\Dodz.Home.resources
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz\Dodz\obj\Debug\Dodz.Login.resources
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz\Dodz\obj\Debug\Dodz.POS.resources
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz\Dodz\obj\Debug\Dodz.Properties.Resources.resources
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz\Dodz\obj\Debug\Dodz.UCAccounts.resources
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz\Dodz\obj\Debug\Dodz.UCHome.resources
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz\Dodz\obj\Debug\Dodz.UCProducts.resources
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz\Dodz\obj\Debug\Dodz.UCSales.resources
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz\Dodz\obj\Debug\Dodz.csproj.GenerateResource.Cache
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz\Dodz\obj\Debug\RdlCompile.cache
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz\Dodz\obj\Debug\RdlCompile.compiled
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz\Dodz\obj\Debug\Dodz.UCReport.resources
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz\Dodz\obj\Debug\Dodz.UCSalesReport.resources
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz\Dodz\bin\Debug\Dodz.exe.config
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz\Dodz\obj\Debug\Dodz.exe
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz\Dodz\obj\Debug\Dodz.pdb
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz\Dodz\bin\Debug\Dodz.exe
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz\Dodz\bin\Debug\Dodz.pdb
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz\Dodz\bin\Debug\MySql.Data.dll
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz\Dodz\obj\Debug\Dodz.csprojResolveAssemblyReference.cache
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz\Dodz\obj\Debug\Dodz.Home.resources
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz\Dodz\obj\Debug\Dodz.Login.resources
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz\Dodz\obj\Debug\Dodz.POS.resources
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz\Dodz\obj\Debug\Dodz.Properties.Resources.resources
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz\Dodz\obj\Debug\Dodz.UCAccounts.resources
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz\Dodz\obj\Debug\Dodz.UCHome.resources
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz\Dodz\obj\Debug\Dodz.UCProducts.resources
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz\Dodz\obj\Debug\Dodz.UCReport.resources
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz\Dodz\obj\Debug\Dodz.UCSales.resources
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz\Dodz\obj\Debug\Dodz.UCSalesReport.resources
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz\Dodz\obj\Debug\Dodz.csproj.GenerateResource.Cache
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz\Dodz\obj\Debug\RdlCompile.cache
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz\Dodz\obj\Debug\RdlCompile.compiled
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz\Dodz\obj\Debug\Dodz.ForgotPassword.resources
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz Local\Dodz\bin\Debug\Dodz.exe.config
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz Local\Dodz\obj\Debug\Dodz.exe
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz Local\Dodz\obj\Debug\Dodz.pdb
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz Local\Dodz\bin\Debug\Dodz.exe
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz Local\Dodz\bin\Debug\Dodz.pdb
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz Local\Dodz\bin\Debug\MySql.Data.dll
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz Local\Dodz\obj\Debug\Dodz.csprojResolveAssemblyReference.cache
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz Local\Dodz\obj\Debug\Dodz.ForgotPassword.resources
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz Local\Dodz\obj\Debug\Dodz.Home.resources
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz Local\Dodz\obj\Debug\Dodz.Login.resources
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz Local\Dodz\obj\Debug\Dodz.POS.resources
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz Local\Dodz\obj\Debug\Dodz.Properties.Resources.resources
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz Local\Dodz\obj\Debug\Dodz.UCAccounts.resources
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz Local\Dodz\obj\Debug\Dodz.UCHome.resources
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz Local\Dodz\obj\Debug\Dodz.UCProducts.resources
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz Local\Dodz\obj\Debug\Dodz.UCReport.resources
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz Local\Dodz\obj\Debug\Dodz.UCSales.resources
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz Local\Dodz\obj\Debug\Dodz.UCSalesReport.resources
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz Local\Dodz\obj\Debug\Dodz.csproj.GenerateResource.Cache
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz Local\Dodz\obj\Debug\RdlCompile.cache
+C:\Users\PcDoctoR\Desktop\Desktop\Others\Dodz RAR's\Dodz Local\Dodz\obj\Debug\RdlCompile.compiled
